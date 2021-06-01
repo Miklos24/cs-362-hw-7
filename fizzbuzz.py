@@ -1,5 +1,5 @@
 def fizzbuzz():
-    return [1, 2, 'Fizz']
+    return [1, 2, 'Fizz', 4, 'Buzz']
 
 
 if __name__ == '__main__':
